@@ -1,0 +1,36 @@
+.rgb-grid {
+    background-color: #ff275d;
+}
+
+.top-stack {
+    border-radius: 10; 
+    width: 90%; 
+    height: 100;
+}
+
+.top-stack Label {
+    font-size: 20;
+    font-weight: bold;
+    color: white;
+}
+
+.rgb-title-lbl {
+    text-align: center;
+    font-size: 30;
+    font-weight: bold;
+    color: #34204F;
+}
+
+.rgb-slider {
+    margin-top: 10;
+    margin-bottom: 10;
+    color: pink;
+    background-color: white;
+}
+
+.rgb-slider-lbl {
+    text-align: center;
+    font-size: 25;
+    font-weight: bold;
+    color: white;
+}
